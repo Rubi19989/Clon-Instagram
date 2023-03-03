@@ -175,10 +175,11 @@ a:hover {
     border: 0.1rem solid;
     border-radius: 100%;
     background-color: gainsboro;
-    padding: 13%;
+    padding: 9%;
+    margin-left: 3rem;
     background-image: url(./img/imagen.png);
     background-repeat: no-repeat;
-    background-size: 7rem;
+    background-size: 5rem;
 }
 
 .history2 {
@@ -191,7 +192,7 @@ a:hover {
     border: 0.1rem solid;
     border-radius: 100%;
     background-color: rgb(255, 115, 0);
-    padding: 13%;
+    padding: 9%;
     margin-left: 2rem;
     background-image: url(./img/plam.png);
     background-repeat: no-repeat;
@@ -208,7 +209,7 @@ a:hover {
     border: 0.1rem solid;
     border-radius: 100%;
     background-color: rgb(255, 115, 0);
-    padding: 13%;
+    padding: 9%;
     background-image: url(./img/plam.png);
     background-repeat: no-repeat;
     background-size: 9rem;
@@ -224,7 +225,7 @@ a:hover {
     border-radius: 100%;
     margin-left: 2rem;
     background-color: rgb(255, 115, 0);
-    padding: 13%;
+    padding: 9%;
     background-image: url(./img/plam.png);
     background-repeat: no-repeat;
     background-size: 9rem;
@@ -233,7 +234,7 @@ a:hover {
 p {
     font-size: 1rem;
     padding-top: 3rem;
-    margin-top: 2rem;
+    margin-top: 1rem;
 
 }
 
@@ -323,7 +324,7 @@ img {
     background-color: white;
     background-image: url(./img/salvado-.png);
     background-repeat: no-repeat;
-    background-position: 18rem;
+    background-position: 16rem;
     background-size: 1.5rem;
 }
 
@@ -333,7 +334,7 @@ img {
     justify-content: flex-start;
     width: 100%;
     padding: 10rem;
-    padding-bottom: 30rem;
+    padding-bottom: 40rem;
 
 }
 
